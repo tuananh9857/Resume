@@ -96,6 +96,3 @@ table{
   background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
   background: -moz-linear-gradient(top,  #FFFFFF,  #FFFFFF);
 }
-$(function () {
-  $('[data-toggle="popover"]').popover()
-})
