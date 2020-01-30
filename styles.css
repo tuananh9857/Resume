@@ -62,10 +62,16 @@ table{
   width: 100%;
 }
 .col-sm-4-left{
-  margin-top: 10%;
+  margin-top:0%;
   font-size: 25px;
   font-weight: bold;
   font-family: 'Tangerine', cursive;
+}
+.embed-responsive-16by9::before {
+    padding-top: 0%;
+}
+.dropdown-menu {
+  font-size: 10px;
 }
 
 
