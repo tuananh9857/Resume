@@ -68,7 +68,7 @@ table{
   font-family: 'Tangerine', cursive;
 }
 .embed-responsive-16by9::before {
-    padding-top: 0%;
+    padding-top: 50%;
 }
 .dropdown-menu {
   font-size: 10px;
