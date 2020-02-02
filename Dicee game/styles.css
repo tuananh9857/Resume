@@ -39,3 +39,21 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+.drawbutton{
+  background-color: grey;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+  border-width: 1%;
+  border-color: black;
+  font-weight: bold;
+}
+.pressed{
+  box-shadow: 0 3px 4px 0 red;
+  opacity: 0.5;
+}
+.pressed1{
+  box-shadow: 0 3px 4px 0 white;
+  opacity: 0.5;
+}
